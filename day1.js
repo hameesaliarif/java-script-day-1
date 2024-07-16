@@ -1,5 +1,3 @@
-# java-script-day-1
-
 // DAY 1 : VARIABLES AND DATA TYPES
 
 // ACTIVITY 1 : VARIABLE DECLARATION
@@ -21,9 +19,9 @@ console.log(a1);
 // TASK 3
 
 // Declare a variable using " const", assign it a boolean value, and log the value to the console.
-<!-- const a3;
+const a3;
 a3 = true;
-console.log(a3); -->
+console.log(a3);
 
 // ACTIVITY 3 : DATA TYPES
 
